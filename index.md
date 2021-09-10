@@ -11,7 +11,8 @@
 
 ---
 [Walkshed Analysis for two Austin, Tx Schools](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/RidgetopWalkshed?raw=true"/>
+<img src="images/CaseyWalkshed?raw=true"/>
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
