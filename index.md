@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Dasymetric Mapping](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/pop_19.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
