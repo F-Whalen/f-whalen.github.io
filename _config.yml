@@ -1,13 +1,13 @@
-ititle: My Name # your name (or website title) here
+ititle: Felicia Whalen # your name (or website title) here
 logo: "/images/Blluebonetts.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   My portfolio of GIS projects 
   <br><br>
-  Second description 
+  . . . a work in progress . . .
   <br><br>
-  #   #   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  
   <br><br>
-  <a href="https://storymaps.arcgis.com/stories/6e504b24afc543a896bd65f6e09555e8">View My Esri Story Map Profile</a> 
+  <a href="https://storymaps.arcgis.com/stories/6e504b24afc543a896bd65f6e09555e8">View My Esri Story Map Portfolio</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
