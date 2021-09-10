@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Analysis
 
 [Dasymetric Mapping](/sample_page)
 <img src="images/pop_19.jpg?raw=true"/>
