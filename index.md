@@ -12,13 +12,10 @@
 ---
 
 [Walkshed Analysis for two Austin, Tx Schools](/sample_page)
-<img src="images/RidgetopWalkshed?raw=true"/>
+<img src="images/RidgetopWalkshed.jpg?raw=true"/>
 
 ---
 
-
-[Walkshed Analysis for two Austin, Tx Schools](/sample_page)
-<img src="images/RidgetopWalkshed?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
