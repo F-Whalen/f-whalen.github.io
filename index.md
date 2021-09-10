@@ -13,6 +13,7 @@
 
 [Walkshed Analysis for two Austin, Tx Schools](/sample_page)
 <img src="images/RidgetopWalkshed.jpg?raw=true"/>
+<img src="images/CaseyWalkshed.jpg?raw=true"/>
 
 ---
 
