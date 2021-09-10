@@ -10,6 +10,13 @@
 <a href="https://storymaps.arcgis.com/stories/0c9534f559e74555b303baa57f1c0f51">Story Map of population changes in Harris County, Texas</a> 
 
 ---
+
+[Walkshed Analysis for two Austin, Tx Schools](/sample_page)
+<img src="images/RidgetopWalkshed?raw=true"/>
+
+---
+
+
 [Walkshed Analysis for two Austin, Tx Schools](/sample_page)
 <img src="images/RidgetopWalkshed?raw=true"/>
 
