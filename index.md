@@ -4,7 +4,7 @@
 
 ### Analysis
 
-[Dasymetric Mapping](/sample_page)
+[Dasymetric Mapping](/dasymd)
 <img src="images/pop_19.jpg?raw=true"/>
 
 <a href="https://storymaps.arcgis.com/stories/0c9534f559e74555b303baa57f1c0f51">Story Map of population changes in Harris County, Texas</a> 
