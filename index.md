@@ -19,7 +19,7 @@
 
 ---
 [Harris Co TX Flood Zone Analysis Using Python](/pdf/ProjReportHarrisFlooding.pdf)
-<img src="images/CaseyWalkshed.jpg?raw=true"/>
+<img src="images/FloodZones.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
