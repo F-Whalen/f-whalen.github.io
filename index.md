@@ -13,6 +13,8 @@
 ---
 [Turtles of Hard 8 Ranch](/turtles)
 
+<img src="images/Turtles.jpg?raw=true"/>
+
 
 <a href="https://storymaps.arcgis.com/stories/bf2c07b699eb43d1ac1fbb6937d97b3f">Story Map of the Box Turtles on Hard 8 Ranch</a> 
 
