@@ -5,15 +5,15 @@
 ### Analysis
 
 [Dasymetric Mapping](/dasymd)
-<img src="images/pop_19.jpg?raw=true"/>
+
 
 <a href="https://storymaps.arcgis.com/stories/0c9534f559e74555b303baa57f1c0f51">Story Map of population changes in Harris County, Texas</a> 
-
+<img src="images/pop_19.jpg?raw=true"/>
 ---
 
-[Walkshed Analysis for two Austin, Tx Schools](/sample_page)
+[Walkshed Analysis for two Austin, Tx Schools](/pdf/Walksheds.pdf)
 <img src="images/RidgetopWalkshed.jpg?raw=true"/>
-<img src="images/CaseyWalkshed.jpg?raw=true"/>
+ <img src="images/CaseyWalkshed.jpg?raw=true"/>
 
 ---
 
