@@ -15,12 +15,13 @@
 
 [Walkshed Analysis for two Austin, Tx Schools](/pdf/Walksheds.pdf)
 <img src="images/RidgetopWalkshed.jpg?raw=true"/>
- <!=== <img src="images/CaseyWalkshed.jpg?raw=true"/>  -->
+
 
 ---
 
 ---
 [Harris Co TX Flood Zone Analysis Using Python](/pdf/ProjReportHarrisFlooding.pdf)
+
 <img src="images/FloodZones.jpg?raw=true"/>
 
 ---
