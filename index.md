@@ -4,7 +4,7 @@
 ### Personal Mapping Projects
 ---
 
-[Dashboard](/dasymd)
+[Dashboard](/dashboard)
 
 
 <img src="images/Dashboard.jpg?raw=true"/>
