@@ -1,8 +1,10 @@
 ## Portfolio
 
 ---
+### Personal Mapping Projects
+===
 
-### Analysis
+### Class Projects: Analysis
 
 [Dasymetric Mapping](/dasymd)
 
