@@ -7,6 +7,8 @@ This is an ongoing project I have been a part of. We are documenting historic si
 Freedman's Town, Fourth Ward, Houston Texas, using drone imagery and online and historic maps.    
 
 <a href="https://feliciawhalen.maps.arcgis.com/apps/View/index.html?appid=7c3bb460f7224bc28dbca06a9cec4e74">Interactive map of some sites in Freedman's Town</a> 
+
+<img src="images/FTintersection.jpg?raw=true"/>
 ---
 ### Personal Mapping Projects
 ---
