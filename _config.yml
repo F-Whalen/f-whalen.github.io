@@ -6,14 +6,15 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   
   <br><br>
-  * Personal Map projects that I have done for fun     
+  <ul>
+  <li>Personal Map projects that I have done for fun </li>    
   
   <br><br>
   
-  * School projects     
+  <li>School projects</li>       
   
   <!-- test -->
-  # test 2
+</ul>
   
   <br><br>
   . . . a work in progress . . .
