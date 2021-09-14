@@ -61,6 +61,7 @@ Lots of wildlife photos that I've taken over the years, interactive trails maps,
 This is the final project for the very first GIS class I took. This is a PDF version of a PowerPoint presentation.    
 Lone Star College Cy-Fair, Professor Michael Konvicka.
 
+
 "Oliver" 
 <img src="images/oliver.jpeg?raw=true"/>
 (photo credit: Tom Bridge)
