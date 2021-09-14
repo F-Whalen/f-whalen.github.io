@@ -53,6 +53,9 @@ Lots of wildlife photos that I've taken over the years, interactive trails maps,
 
 ---
 
+### Other Class Projects
+
+
 [Final Project GISC 1411](/pdf/project1411.pdf)
 
 This is the final project for the very first GIS class I took. This is a PDF version of a PowerPoint presentation.    
