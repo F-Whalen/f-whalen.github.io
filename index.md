@@ -18,7 +18,7 @@
 <img src="images/Turtles.jpg?raw=true"/>
 
 ---
-[Brazos Bend State Park]
+[Brazos Bend State Park](/bbspdata)
 
 <a href="https://storymaps.arcgis.com/stories/d190d1a1af5c4ee1bd21aa052c251f35">Story Map of Brazos Bend State Park</a> 
 
