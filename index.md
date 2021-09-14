@@ -24,7 +24,7 @@
 
 Lots of wildlife photos, interactive trails maps, and other park photos and info.
 
-<img src="images/bbbsp.jpg?raw=true"/>
+<img src="images/bbbsp2.jpg?raw=true"/>
 
 ---
 
