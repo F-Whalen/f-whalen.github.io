@@ -4,7 +4,8 @@
 ### Community Service
 
 This is an ongoing project I have been a part of. We are documenting historic sites and brick streets in historic   
-Freedman's Town, Fourth Ward, Houston Texas, using drone imagery and online and historic maps.    
+Freedman's Town, Fourth Ward, Houston Texas, using drone imagery and online and historic maps.      
+Working with Lone Star College Cy-Fair Center for Geosciences and the Rutherford B.H. Yates Museum.
 
 <a href="https://feliciawhalen.maps.arcgis.com/apps/View/index.html?appid=7c3bb460f7224bc28dbca06a9cec4e74">Interactive map of some sites in Freedman's Town</a> 
 
