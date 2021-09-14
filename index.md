@@ -55,9 +55,10 @@ Lots of wildlife photos, interactive trails maps, and other park photos and info
 
 [Final Project GISC 1411](/pdf/project1411.pdf)
 
-This is the final project for the very first GIS class I took. Lone Star College Cy-Fair, Professor Michael Konvicka.
+This is the final project for the very first GIS class I took. This is a PDF version of a PowerPoint presentation.    
+Lone Star College Cy-Fair, Professor Michael Konvicka.
 
-<img src="images/oliver.jpg?raw=true"/>
+<img src="images/FloodZones.jpg?raw=true"/>
 
 
 ---
