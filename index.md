@@ -59,6 +59,7 @@ This is the final project for the very first GIS class I took. Lone Star College
 
 <img src="images/oliver.jpg?raw=true"/>
 
+
 ---
 <!--  [Project 2 Title](/pdf/sample_presentation.pdf) -->
 <!--  <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
