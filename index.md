@@ -20,7 +20,6 @@ Working with Lone Star College Cy-Fair Center for Geosciences and the Rutherford
 [Dashboard](/dashboard)
 
 
-
 <img src="images/Dashboard.jpg?raw=true"/>
 
 ---
