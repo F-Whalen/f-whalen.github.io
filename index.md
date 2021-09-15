@@ -71,7 +71,8 @@ Lots of wildlife photos that I've taken over the years, interactive trails maps,
 [Final Project GISC 1411](/pdf/project1411.pdf)
 
 This is the final project for the very first GIS class I took. This is a PDF version of a PowerPoint presentation.    
-Lone Star College Cy-Fair, Professor Michael Konvicka.
+Lone Star College Cy-Fair, Professor Michael Konvicka.     
+An analysis of dog agility competitions in the Houston, TX area.
 
 
 "Oliver" 
