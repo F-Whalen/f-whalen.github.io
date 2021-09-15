@@ -1,9 +1,9 @@
 ititle: Felicia Whalen # your name (or website title) here
 title: Felicia Whalen
 logo: "/images/hurricanes.jpg?raw=true" # your photo (or logo) here    
-hurricanes color coded by basin
-description: > # your text below (remove <br> elements if you don't need line breaks)    
 
+description: > # your text below (remove <br> elements if you don't need line breaks)    
+  hurricanes color coded by basin
   A portfolio of some of my GIS projects     
   I'm interested in cartography, spatial analysis, and ArcGIS apps.
   <br><br>
