@@ -51,6 +51,7 @@ Lots of wildlife photos that I've taken over the years, interactive trails maps,
 
 <img src="images/pop_19.jpg?raw=true"/>
 ---
+---
 
 [Walkshed Analysis for two Austin, Tx Schools](/pdf/Walksheds.pdf)
 <img src="images/RidgetopWalkshed.jpg?raw=true"/>
