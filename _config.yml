@@ -3,18 +3,19 @@ title: Felicia Whalen
 logo: "/images/hurricanes.jpg?raw=true" # your photo (or logo) here    
 
 description: > # your text below (remove <br> elements if you don't need line breaks)    
-  (hurricanes color coded by basin)    
+  (hurricanes color coded by basin)   
+  
   A portfolio of some of my GIS projects     
   I'm interested in cartography, spatial analysis, and ArcGIS apps.
   <br><br>
   
   <br><br>
   <ul>
-  <li>  **Personal Map projects that I have done for fun** </li>    
+  <li>  Personal Map projects that I have done for fun </li>    
   
   <br><br>
   
-  <li>  **School projects** </li>       
+  <li>  School projects </li>       
   
   <!-- test -->
   </ul>
