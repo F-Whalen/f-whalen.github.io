@@ -2,11 +2,13 @@
 ## Fourth Ward, Houston Texas    
 
 Software Used:    
+
 	ArcGIS Online
 	DroneDeploy
 	1 hosted feature layer    
 
 Hardware Used:    
+
 	DJI Phantom 4 Pro    
 
 This is an ongoing project I have been a part of. We are documenting historic sites and brick streets in historic
