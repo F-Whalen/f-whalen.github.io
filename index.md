@@ -106,7 +106,8 @@ Python code for the project is organized as a "main" file and a "module" file.
 
 ---
 
-[hummers_video]<img src="images/IMG_0842.MOV?raw=true">
+hummers_video
+<img src="images/img_0842.mov?raw=true">
 
 
 ---
