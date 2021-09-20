@@ -78,9 +78,9 @@ Lots of wildlife photos that I've taken over the years, interactive trails maps,
 
 
 
-"Oliver" 
-<img src="images/oliver.jpeg?raw=true"/>
-(photo credit: Tom Bridge)
+<!-- "Oliver" -->
+<img src="images/projexppProj.jpg?raw=true"/>
+<!-- (photo credit: Tom Bridge) -->
 
 ---
 <!--  [Project 2 Title](/pdf/sample_presentation.pdf) -->
