@@ -18,7 +18,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   
  
   
-  <li>  School projects </li>       
+  <li>  School projects </li>     
+  
+  <li>  Python Code Examples </li>
   
   <!-- test -->
   </ul>
