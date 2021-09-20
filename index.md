@@ -94,7 +94,7 @@ Lots of wildlife photos that I've taken over the years, interactive trails maps,
 
 ### Python Code Examples 
 
- [Rock Paper Scissors](https://github.com/F-Whalen/python/RockPaperScissors.py) 
+ [Rock Paper Scissors](https://github.com/F-Whalen/python/blob/main/RockPaperScissors.py) 
 <!--  - [Project 2 Title](http://example.com/) -->
 <!--  - [Project 3 Title](http://example.com/) -->
 <!--  - [Project 4 Title](http://example.com/) -->
