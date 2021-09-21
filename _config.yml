@@ -32,5 +32,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://storymaps.arcgis.com/stories/6e504b24afc543a896bd65f6e09555e8">View My Esri Story Map Portfolio</a> 
   
-theme: jekyll-theme-architect
+theme: jekyll-theme-tactile
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
