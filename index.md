@@ -28,7 +28,7 @@
 
 <a href="https://storymaps.arcgis.com/stories/bf2c07b699eb43d1ac1fbb6937d97b3f">Story Map of the Box Turtles on Hard 8 Ranch</a> 
 
-<img src="images/Turtles.jpg?raw=true"/>
+<img src="images/turtleHeatMap.jpg?raw=true"/>
 
 ---
 [Brazos Bend State Park](/bbspdata)
