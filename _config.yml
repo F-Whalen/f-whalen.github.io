@@ -10,6 +10,21 @@ description: > # your text below (remove <br> elements if you don't need line br
   I'm interested in cartography, spatial analysis, and ArcGIS apps.
   <br><br> 
   :earth_americas:
+  <!DOCTYPE html>
+<html>
+<style>
+body {
+  font-size: 20px;
+}
+</style>
+<body>
+
+<span style='font-size:100px;'>&#127758;</span>
+<p>I will display &#127758;</p>
+<p>I will display &#x1F30E;</p>
+
+</body>
+</html>
   <br><br>
    Scroll down on the right side to see a portfolio of some of my GIS projects. 
   <br><br>
