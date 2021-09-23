@@ -83,15 +83,7 @@ Python code for the project is organized as a "main" file and a "module" file.
          
   ---     
   
-  [Old Archery Range](/oar)
-  
-  This is a Story Map (Cascade) of the Old Archery Range part of Memorial Park in Houston. 
-  The class used drones to image various portions of the park, and this was my section. 
-  Drone and historic imagery were used to show how the path of Buffalo Bayou has changed over
-  the years.     
-  
-  <a href="https://www.arcgis.com/apps/Cascade/index.html?appid=e1f4b71d37b845639d96deb3bf22c990">Story Map of Old Archery Range, Memorial Park, Houston Texas</a> 
-  
+
   
   
       
@@ -103,6 +95,16 @@ Python code for the project is organized as a "main" file and a "module" file.
 <!-- (photo credit: Tom Bridge) -->
 
 ---
+
+  [Old Archery Range](/oar)
+  
+  This is a Story Map (Cascade) of the Old Archery Range part of Memorial Park in Houston. 
+  The class used drones to image various portions of the park, and this was my section. 
+  Drone and historic imagery were used to show how the path of Buffalo Bayou has changed over
+  the years.     
+  
+  <a href="https://www.arcgis.com/apps/Cascade/index.html?appid=e1f4b71d37b845639d96deb3bf22c990">Story Map of Old Archery Range, Memorial Park, Houston Texas</a> 
+  
 <!--  [Project 2 Title](/pdf/sample_presentation.pdf) -->
 <!--  <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
