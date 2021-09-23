@@ -103,7 +103,9 @@ Python code for the project is organized as a "main" file and a "module" file.
   Drone and historic imagery were used to show how the path of Buffalo Bayou has changed over
   the years.     
   
-  <a href="https://www.arcgis.com/apps/Cascade/index.html?appid=e1f4b71d37b845639d96deb3bf22c990">Story Map of Old Archery Range, Memorial Park, Houston Texas</a> 
+  <a href="https://www.arcgis.com/apps/Cascade/index.html?appid=e1f4b71d37b845639d96deb3bf22c990">Story Map of Old Archery Range, Memorial Park, Houston Texas</a>     
+  
+  <img src="images/oar.jpg?raw+true"/>
   
 <!--  [Project 2 Title](/pdf/sample_presentation.pdf) -->
 <!--  <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
