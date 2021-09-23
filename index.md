@@ -83,7 +83,7 @@ Python code for the project is organized as a "main" file and a "module" file.
          
   ---     
   
-  [Old Archery Range, Memorial Park, Houston Texas]
+  [Old Archery Range, Memorial Park, Houston Texas](/oar)
   
   This is a Story Map (Cascade) of the Old Archery Range part of Memorial Park in Houston. 
   The class used drones to image various portions of the park, and this was my section. 
