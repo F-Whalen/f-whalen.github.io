@@ -73,7 +73,7 @@ Python code for the project is organized as a "main" file and a "module" file.
 Click on the map below for an interactive web map showing the flood zones, hospitals, 
 and stream network for Harris County, Texas    
 
-[![Harris County Flood Zones](images/CentralAsiaCities.png)](https://feliciawhalen.maps.arcgis.com/apps/instant/minimalist/index.html?appid=ac6eff5df1a4460b98c188ff6d702654)
+[![Harris County Flood Zones](images/FloodWebMap.jpg)](https://feliciawhalen.maps.arcgis.com/apps/instant/minimalist/index.html?appid=ac6eff5df1a4460b98c188ff6d702654)
 
 ---
 
