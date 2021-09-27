@@ -8,9 +8,9 @@ description: > # your text below (remove <br> elements if you don't need line br
     
   I have over four years' experience using the Esri suite of products.   
   <br><br> 
-  I <b>love</b> cartography, and have experience in spatial analysis,
-  geocoding, georefferencing, geodatabase design, and Python scripting.    
-  <br><br> 
+  <!-- I <b>love</b> cartography, and have experience in spatial analysis,  -->
+  <!-- geocoding, georefferencing, geodatabase design, and Python scripting.   --> 
+  <!-- <br><br> -->
   I have a Bachelor's degree in Computer Science from the University of Oklahoma,
   and am currently in my last year of OU's Masters in Geospatial Technologies 
   program.
