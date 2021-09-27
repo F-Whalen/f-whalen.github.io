@@ -19,7 +19,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <ul>
   <li> A Community Service Project </li>    
-  <li>  Personal Map projects that I have done for fun </li>    
+  <li>  Personal Map projects  </li>    
   <li>  School projects </li>     
   <li>  Python Code Examples </li>
   <!-- test -->
@@ -29,7 +29,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <!--  . . . a work in progress . . . -->
   <!--  <br><br> -->
   
-  <br><br>
+  <!-- <br><br> -->
   <a href="https://storymaps.arcgis.com/stories/6e504b24afc543a896bd65f6e09555e8">View My Esri Story Map Portfolio</a> 
   
 theme: jekyll-theme-minimal
