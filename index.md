@@ -77,7 +77,7 @@ and stream network for Harris County, Texas
 
 Click on the image below for a split-panel app that shows four recent major floods in the Houston, TX area; Memorial Day 2015, Tax Day 2016, Memorial Day 2016, and Hurricane Harvey 2017. You can comparea before/after for each flood, or compare the floods to each other. Map starts off centered on the two flood control reservoirs, Addicks (NE) and Barker (SW), west of Houston, at I-10 & Hwy 6.
 
-[!Interactive Slider App for Houston Floods Comparisons](images/GEEFloodMapApp.jpg)](https://fwhalenou.users.earthengine.app/view/major-houston-floods-2015-2017)
+[!Interactive Slider App for Houston Floods Comparisons](images/GEEFloodMapApp.jpg)(https://fwhalenou.users.earthengine.app/view/major-houston-floods-2015-2017)
 
 ---
 
