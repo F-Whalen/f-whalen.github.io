@@ -73,7 +73,11 @@ Python code for the project is organized as a "main" file and a "module" file.
 Click on the map below for an interactive web map showing the flood zones, hospitals, 
 and stream network for Harris County, Texas    
 
-[![Harris County Flood Zones](images/FloodWebMap.jpg)](https://feliciawhalen.maps.arcgis.com/apps/instant/minimalist/index.html?appid=ac6eff5df1a4460b98c188ff6d702654)
+[![Harris County Flood Zones](images/FloodWebMap.jpg)](https://feliciawhalen.maps.arcgis.com/apps/instant/minimalist/index.html?appid=ac6eff5df1a4460b98c188ff6d702654)    
+
+---
+### Remote Sensing   
+
 
 Click on the image below for a split-panel app that shows satellite imagery of four recent major floods in the Houston, TX area; Memorial Day 2015, Tax Day 2016, Memorial Day 2016, and Hurricane Harvey 2017. You can compare before/after for each flood, or compare the floods to each other. Map starts off centered on the two flood control reservoirs, Addicks (NE) and Barker (SW), west of Houston, at I-10 & Hwy 6.
 
