@@ -85,7 +85,7 @@ Click on the image below for a split-panel app that shows satellite imagery of f
 [![Interactive Slider App for Houston Floods Comparisons](images/GEEFloodMapApp.jpg)](https://fwhalenou.users.earthengine.app/view/major-houston-floods-2015-2017)
 ---
 
-##### California Fire
+##### California Kincade Fire
 
 Click on the image below for a split-panel app that shows the Kincade fire in California.
 
