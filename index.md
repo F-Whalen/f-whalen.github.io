@@ -5,7 +5,7 @@
 
 ---
 
-[Historic Freedman's Town](/ftinfo)
+[Historic Freedman's Town project info](/ftinfo)
 
 
 <a href="https://feliciawhalen.maps.arcgis.com/apps/View/index.html?appid=7c3bb460f7224bc28dbca06a9cec4e74">Interactive map of some sites in Freedman's Town</a> 
@@ -18,20 +18,20 @@
 ### Personal Mapping Projects
 ---
 
-[Dashboard](/dashboard)
+[Dashboard project info](/dashboard)
 
 
 <img src="images/Dashboard.jpg?raw=true"/>
 
 ---
-[Turtles of Hard 8 Ranch](/turtles)
+[Turtles of Hard 8 Ranch project info](/turtles)
 
 <a href="https://storymaps.arcgis.com/stories/bf2c07b699eb43d1ac1fbb6937d97b3f">Story Map of the Box Turtles on Hard 8 Ranch</a> 
 
 <img src="images/turtleHeatMap.jpg?raw=true"/>
 
 ---
-[Brazos Bend State Park](/bbspdata)
+[Brazos Bend State Park project info](/bbspdata)
 
 <a href="https://storymaps.arcgis.com/stories/d190d1a1af5c4ee1bd21aa052c251f35">Story Map of Brazos Bend State Park</a> 
 
@@ -43,7 +43,7 @@ Lots of wildlife photos that I've taken over the years, interactive trails maps,
 
 ### Class Projects: Analysis
 
-[Dasymetric Mapping](/dasymd)
+[Dasymetric Mapping project info](/dasymd)
 
 
 
@@ -98,7 +98,7 @@ Click on the image below for a split-panel app that shows the Kincade fire in Ca
 
 ---
 
-[Final Class Project](/gisc1411)
+[Final Class Project project info](/gisc1411)
 
 
 [Dog Agility Competition Locations in the Houston Area](/pdf/project1411.pdf)
@@ -119,7 +119,7 @@ Click on the image below for a split-panel app that shows the Kincade fire in Ca
 
 ---
 
-  [Old Archery Range](/oar)
+  [Old Archery Range project info](/oar)
   
   This is a Story Map (Cascade) of the Old Archery Range part of Memorial Park in Houston. 
   The class used drones to image various portions of the park, and this was my section. 
