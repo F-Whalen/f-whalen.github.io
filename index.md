@@ -11,7 +11,7 @@
 <a href="https://feliciawhalen.maps.arcgis.com/apps/View/index.html?appid=7c3bb460f7224bc28dbca06a9cec4e74">Interactive map of some sites in Freedman's Town</a> 
 
 <i>Intersection of Andrews and Wilson streets, showing where the trolley tracks used to run.</i>
-<img src="images/FTintersection.png?raw=true"/>
+<img src="images/SanbornOverlayPhoto.JPG?raw=true"/>
 
 ---    
 
