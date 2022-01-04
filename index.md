@@ -7,10 +7,10 @@
 
 [Historic Freedman's Town project info](/ftinfo)
 
-
-<a href="https://feliciawhalen.maps.arcgis.com/apps/View/index.html?appid=7c3bb460f7224bc28dbca06a9cec4e74">Interactive map of some sites in Freedman's Town</a> 
-
-<i>Intersection of Andrews and Wilson streets, showing where the trolley tracks used to run.</i>
+<!-- <br><br> -->
+<!-- <a href="https://feliciawhalen.maps.arcgis.com/apps/View/index.html?appid=7c3bb460f7224bc28dbca06a9cec4e74">Interactive map of some sites in Freedman's Town</a> -->
+<a href="https://arcg.is/1Hjnaf0">Work-In-Progress Story Map of some sites in Freedman's Town</a> 
+<i>Overlay of Sanborn Map from 1907 with drone imagery from 2020.</i>
 <img src="images/SanbornOverlayPhoto.JPG?raw=true"/>
 
 ---    
