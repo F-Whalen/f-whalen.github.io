@@ -9,9 +9,10 @@
 
 <!-- <br><br> -->
 <!-- <a href="https://feliciawhalen.maps.arcgis.com/apps/View/index.html?appid=7c3bb460f7224bc28dbca06a9cec4e74">Interactive map of some sites in Freedman's Town</a> -->
-<a href="https://arcg.is/1Hjnaf0">Click here to see Work-In-Progress Story Map of some sites in Freedman's Town</a>     
+<!-- <a href="https://arcg.is/1Hjnaf0">Click here to see Work-In-Progress Story Map of some sites in Freedman's Town</a> -->       
 
-<i>Overlay of Sanborn Map from 1907 with drone imagery from 2020.</i>
+<i>Overlay of Sanborn Map from 1907 with drone imagery from 2020.</i>     
+[![Story Map Freedmen's Town Housotn](images/SanbornOverlayPhoto.JPG)](https://arcg.is/1Hjnaf0)
 <img src="images/SanbornOverlayPhoto.JPG?raw=true"/>
 
 ---    
