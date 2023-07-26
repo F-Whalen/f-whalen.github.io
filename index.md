@@ -5,7 +5,7 @@
 
 <!--<br><br> -->
 
-[![Precinct 2 Capital Improvement Projects](images/hcp2Screenshot.JPG)](https://www.arcgis.com/apps/dashboards/80f49c148f0d4eedaf3b2064134c206d))
+[![Precinct 2 Capital Improvement Projects](images/hcp2Screenshot.JPG)](https://www.arcgis.com/apps/dashboards/80f49c148f0d4eedaf3b2064134c206d)
 
 
 ---
