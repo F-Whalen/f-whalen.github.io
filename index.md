@@ -2,6 +2,7 @@
 
 ---
 ### Career GIS Examples
+---
 
 <!--<br><br> -->
 <i>Public Interactive Dashboard for Harris County Pct. 2 Capital Improvement Projects</i>
@@ -12,6 +13,7 @@
 
 <i>Printed maps made for community engagement meetings</i>
 <img src="images/Channelview.JPG?raw=true" />  
+---
 <img src="images/NorthShore.JPG?raw=true" />
 ---
 ### Community Service Project
