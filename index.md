@@ -1,13 +1,17 @@
 ## Portfolio
 
 ---
-### Public Interactive Dashboard for Harris County Pct. 2 Capital Improvement Projects
+### Career GIS Examples
 
 <!--<br><br> -->
-
+<i>Public Interactive Dashboard for Harris County Pct. 2 Capital Improvement Projects</i>
 [![Precinct 2 Capital Improvement Projects](images/hcp2Screenshot.JPG)](https://www.arcgis.com/apps/dashboards/80f49c148f0d4eedaf3b2064134c206d)
 <!-- <img src="images/hcp2Screenshot.JPG?raw=true"/> --> 
 
+---
+
+<i>Printed maps made for community engagement meetings</i?
+<!-- <img src="images/Channelview.JPG?raw=true"/> --> <!-- <img src="images/NorthShore.JPG?raw=true"/> --> 
 ---
 ### Community Service Project
 
