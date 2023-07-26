@@ -16,6 +16,7 @@
 ---
 <img src="images/NorthShore.JPG?raw=true" />
 ---
+
 ### Community Service Project
 
 ---
