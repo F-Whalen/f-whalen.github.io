@@ -10,7 +10,7 @@
 
 ---
 
-<i>Printed maps made for community engagement meetings</i?
+<i>Printed maps made for community engagement meetings</i>
 <!-- <img src="images/Channelview.JPG?raw=true"/> --> <!-- <img src="images/NorthShore.JPG?raw=true"/> --> 
 ---
 ### Community Service Project
